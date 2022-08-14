@@ -9,3 +9,4 @@ Tehtävien fokus on kielen perusrakenteiden opettelussa eikä vielä niinkään 
 - Osakearvolaskurissa käsitellään luokkaa osake, jonka oliot (yksittäiset osakkeet) kerätään käyttäjäsyötteestä. Käyttäjältä pyydetään myös tuottoarvio sekä sijoituksen kesto, minkä jälkeen ohjelma tulostaa osakkeiden tuoton.
 - Sademäärälaskuri (arrayharjoitus) pyytää käyttäjältä neljä sademäärää per päivä ma-pe ajalee ja tulostaaa lopuksi viikon kunkin päivän sademäärien keskiarvon.
 - Course_grading on esimerkki Helsingin Yliopiston python-kurssin tehtävistä, joita olen tehnyt ajankuluksi kesän aikana. Ohjelma lukee eri tiedostoista opiskelijoiden tietoja ja tulostaa niitä tiedostoon ja konsoliin erilaisissa kokonaisuuksissa.
+- Calculator / laskin on tenttitehtävä Helsingin Yliopiston ohjelmoinnin jatkokurssilta. Laskinohjelmassa on mahdollista tehdä laskutoimituksia ja se pitää tiedostossa yllä historiatietoja tehdyistä laskutoimituksista.
